@@ -1,0 +1,32 @@
+{
+  "name": "term-flash",
+  "version": "1.0.0",
+  "description": "Flashcards directly in your terminal",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Theodor C. Listov Lindekaer <theodor.lindekaer@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-eslint": "6.1.2",
+    "eslint": "3.4.0",
+    "eslint-config-google": "0.6.0"
+  },
+  "dependencies": {
+    "babel-core": "6.14.0",
+    "babel-preset-es2015-node": "6.1.1",
+    "babel-preset-stage-0": "6.5.0",
+    "chalk": "1.1.3",
+    "commander": "2.9.0"
+  },
+  "babel": {
+    "presets": [
+      "es2015-node",
+      "stage-0"
+    ]
+  },
+  "bin": {
+    "flash": "./index.js"
+  }
+}
