@@ -43,3 +43,30 @@ export function msgNoDecks() {
 
   `;
 }
+
+export function msgHelp() {
+  return `
+  Examples:
+
+    $ flash-term --number 20 quiz history'
+    $ flash-term add history "When was the French revolution?" "1789"');
+  `;
+}
+
+export function msgDeckNotExist(deck) {
+  return `The deck "${deck}" does not exist in the "decks" directory`;
+}
+
+export function msgAddedToDeck(deck, question, answer) {
+  return `
+  This question was added to the deck "${deck}":
+
+  ${chalk.green(`
+  {
+    q: "${question}",
+    a: "${answer}"
+  }
+  `)}
+
+  `;
+}

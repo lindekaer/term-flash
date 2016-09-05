@@ -11,6 +11,7 @@
     "max-len": "off",
     "prefer-const": "error",
     "brace-style": "off",
-    "max-statements-per-line": "off"
+    "max-statements-per-line": "off",
+    "generator-star-spacing": "off"
   }
 }
