@@ -1,0 +1,209 @@
+[
+  {
+    "q": "What does the acronym PATRIOT (act) stand for?",
+    "a": "Provide Appropriate Tools Required to Intercept and Obstruct Terrorism"
+  },
+  {
+    "q": "Who is the artist behind 'Killing me Softly'?",
+    "a": "Roberta Flack"
+  },
+  {
+    "q": "Who is the artist behind 'Forever Young'?",
+    "a": "Alphaville"
+  },
+  {
+    "q": "Who is the artist behind 'You're the voice'?",
+    "a": "John Farnham"
+  },
+  {
+    "q": "What is the name of the global hit song by Toploader?",
+    "a": "'Dancing in the Moonlight'"
+  },
+  {
+    "q": "What are the metric prefixes for a tenth, hundreth, thousandth, millionth and billionth?",
+    "a": "deci, centi, milli, micro and nano"
+  },
+  {
+    "q": "What is the capital of Honduras?",
+    "a": "Tegucigalpa"
+  },
+  {
+    "q": "What is the height of Mt. Everest, Kilimanjaro and Mt. Fuji in meters?",
+    "a": "8848, 5895 and 3776"
+  },
+  {
+    "q": "What is 50 Cents real name?",
+    "a": "Curtis Jackson"
+  },
+  {
+    "q": "What is the area of Denmark in km^2?",
+    "a": "42,923"
+  },
+  {
+    "q": "When were the Nobell prizes first awarded?",
+    "a": "1901"
+  },
+  {
+    "q": "Who is behind the track 'Self Control'?",
+    "a": "Laura Branigan"
+  },
+  {
+    "q": "What is the number of states in the United States of America?",
+    "a": "50"
+  },
+  {
+    "q": "In which fields were the original Nobell prizes?",
+    "a": "Chemistry, literature, peace, physics, and physiology or medicine"
+  },
+  {
+    "q": "What are the classic 'Seven Wonders of the World' as defined by Herodotus and Callimachus?",
+    "a": "Great Pyramid of Giza, Hanging Gardens of Babylon, Statue of Zeus at Olympia, Temple of Artemis at Ephesus, Mausoleum at Halicarnassus, Colossus of Rhodes and Lighthouse of Alexandria"
+  },
+  {
+    "q": "What is the capital of El Salvador?",
+    "a": "San Salvador"
+  },
+  {
+    "q": "What is the capital of Guatemala?",
+    "a": "Guatemala City"
+  },
+  {
+    "q": "Who wrote 'War and Peace' and in which year was it published?",
+    "a": "Leo Tolstoy in 1869"
+  },
+  {
+    "q": "What is the capital of Belize?",
+    "a": "Belmopan"
+  },
+  {
+    "q": "What name was Muhammad Ali born with?",
+    "a": "Cassius Marcellus Clay"
+  },
+  {
+    "q": "When was the attack on Pearl Harbor carried out?",
+    "a": "7/12/41 07:55"
+  },
+  {
+    "q": "What is the name of the famous french diver, explorer and scientist?",
+    "a": "Jacques Cousteau (1910 - 1997)"
+  },
+  {
+    "q": "What are the ten largest countries by area?",
+    "a": "Russia, Canada, China, USA, Brazil, Australia, India, Argentina, Kazakhstan and Algeria"
+  },
+  {
+    "q": "What is the real name of Jay Z?",
+    "a": "Shawn Corey Carter"
+  },
+  {
+    "q": "What are the ten largest contries by population?",
+    "a": "China, India, USA, Indonesia, Brazil, Pakistan, Nigeria, Bangladesh, Russia, Japan"
+  },
+  {
+    "q": "What is the capital of Costa Rica?",
+    "a": "San Jose"
+  },
+  {
+    "q": "When did the American civil war take place?",
+    "a": "1861 - 1865"
+  },
+  {
+    "q": "What is the difference between astronomy and astrology?",
+    "a": "Astronomy is the natural science of studying space, while astrology attempts to explain earthly phenomena using stars"
+  },
+  {
+    "q": "What is the speed of light?",
+    "a": "Approx. 300,000,000 m/s"
+  },
+  {
+    "q": "What is the speed of sound?",
+    "a": "Approx. 343 m/s"
+  },
+  {
+    "q": "What are the capitals of Estonia, Latvia and Lithuania?",
+    "a": "Tallinn, Riga and Vilnius"
+  },
+  {
+    "q": "What do the stripes in 'Stars and Stripes' represent?",
+    "a": "The thirteen British colonies (east coast states) that declared their independence in 1776"
+  },
+  {
+    "q": "Who is the author of the James Bond books?",
+    "a": "Ian Flemming (1908 - 1964)"
+  },
+  {
+    "q": "What does the acronym UNESCO stand for?",
+    "a": "United Nations Educational, Scientific and Cultural Organization"
+  },
+  {
+    "q": "What does the acronym REST (RESTful API endpoints) stand for?",
+    "a": "Representational State Transfer. A representation of a resource is received when requested. This puts the client in a certain state. Such state changes when new resources are requested; thus a transfer of state."
+  },
+  {
+    "q": "What is the difference between shawarma and kebab?",
+    "a": "Shawarma is Arabic and originates from Turkish 'çevirme', which means to rotate. Kebab is Persian and means grilled meat."
+  },
+  {
+    "q": "What is Magna Carta?",
+    "a": "A charter signed by King John of England in 1215 as an attempt to make peace with a group of barons. The charter promised, fx, protection from illegal imprisonment and access to swift justice.",
+    "media": "https://dl.dropboxusercontent.com/u/36147259/mix/magna-carta.png"
+  },
+  {
+    "q": "Who was the author of 'Dracula'?",
+    "a": "Irish author Bram Stoker - written in 1897."
+  },
+  {
+    "q": "What was the name of the Russian dog to first orbit earth (and what year)?",
+    "a": "Laika in 1957"
+  },
+  {
+    "q": "Who were the first to describe the structure DNA?",
+    "a": "James D. Watson and Francis Crick in 1953"
+  },
+  {
+    "q": "What is the difference between precision and accuracy?",
+    "a": "Accuracy is the degree to which a given quanity equals the true quanity. Precision is the degree to which repeated measurements under same conditions show the same result"
+  },
+  {
+    "q": "Locate Beijing, Shanghai and Hong Kong",
+    "a": "Moving north on the Chinese east coast: Hong Kong, Shanghai and Beijing (Peking is an old English spelling for Beijing)",
+    "media": "http://www.chinatouradvisors.com/UpLoad/Tourmaps/BJ-GT-02.jpg"
+  },
+  {
+    "q": "Name all the planets in our solar system",
+    "a": "Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune",
+    "media": "http://theplanets.org/wp-content/uploads/2014/09/the_planets-1024x533.jpg"
+  },
+  {
+    "q": "Who discovered pencilin, when?",
+    "a": "Scottish Alexander Fleming in 1928"
+  },
+  {
+    "q": "What is the capital of Wales?",
+    "a": "Cardiff"
+  },
+  {
+    "q": "What does the acronym WC (toilet) stand for?",
+    "a": "Water Closet"
+  },
+  {
+    "q": "What doe AM and PM stand for?",
+    "a": "Ante meridiem and post meridiem (before and after noon)"
+  },
+  {
+    "q": "Who is behind the hit track 'Save tonight'?",
+    "a": "Eagle-Eye Cherry"
+  },
+  {
+    "q": "What is the name of the infamous zeppelin accident?",
+    "a": "The Hindenburg accident in 1937"
+  },
+  {
+    "q": "Where is Mount Rushmore found and which presidents are pictured?",
+    "a": "In South Dakota. George Washington, Thomas Jefferson, Theodor Roosevelt and Abraham Lincoln"
+  },
+  {
+    "q": "Who was the first American president and when was he elected?",
+    "a": "George Washington, elected in 1789"
+  }
+]
