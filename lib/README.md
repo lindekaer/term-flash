@@ -5,3 +5,4 @@ Flashcards directly in your terminal
 - Make asyncRequest helper
 - Add comments
 - Refactor
+- Read, push, write JSON in separate function
