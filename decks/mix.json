@@ -28,8 +28,8 @@
     "a": "Tegucigalpa"
   },
   {
-    "q": "What is the height of Mt. Everest, Kilimanjaro and Mt. Fuji in meters?",
-    "a": "8848, 5895 and 3776"
+    "q": "What is the height of Mt. Everest, Kilimanjaro, Mt. Fuji and Mont Blanc in meters?",
+    "a": "8848, 5895, 3776, 4810"
   },
   {
     "q": "What is 50 Cents real name?",
@@ -205,5 +205,29 @@
   {
     "q": "Who was the first American president and when was he elected?",
     "a": "George Washington, elected in 1789"
+  },
+  {
+    "q": "What is the total length of the Great Wall?",
+    "a": "21,196 kilometers"
+  },
+  {
+    "q": "What is the highest mountain in Great Britain?",
+    "a": "Ben Nevis of 1344 meters"
+  },
+  {
+    "q": "In which city did Rosa Parks famously refuse to give up her seat on the bus?",
+    "a": "Montogomery, Alabama"
+  },
+  {
+    "q": "Who was the director of 'The Godfather' movies?",
+    "a": "Francis Ford Coppola"
+  },
+  {
+    "q": "Who designed the Nike logo?",
+    "a": "Carolyn Davidson"
+  },
+  {
+    "q": "What is the real name of Bob Dylan?",
+    "a": "Robert Allen Zimmerman"
   }
 ]

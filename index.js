@@ -1,4 +1,5 @@
-#!/usr/bin/env node
-
+// Enable transpilation
 require('babel-core/register');
-require('./lib/app');
+
+// Start application
+require('./lib/cli');
