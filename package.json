@@ -1,6 +1,6 @@
 {
   "name": "term-flash",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Flashcards directly in your terminal",
   "main": "index.js",
   "scripts": {
@@ -33,6 +33,7 @@
     "standard": "8.4.0"
   },
   "bin": {
-    "flash": "./index.js"
+    "flash": "./index.js",
+    "term-flash": "./index.js"
   }
 }
