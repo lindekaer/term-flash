@@ -1,8 +1,4 @@
 export default {
-  // Directory for storing [deck_name].json files
-  deckDir: './decks',
-  defaults: {
-    // Default number of questions in a quiz
-    numberOfQuestions: 10
-  }
-};
+  // Directory for storing [DECK_NAME].json files
+  deckDir: './decks'
+}

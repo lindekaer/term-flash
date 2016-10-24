@@ -10,10 +10,6 @@
   "license": "MIT",
   "standard": {
     "parser": "babel-eslint",
-    "globals": [
-      "strings",
-      "config"
-    ]
   },
   "babel": {
     "presets": [
