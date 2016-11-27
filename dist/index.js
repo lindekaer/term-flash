@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 
-'use strict'
+
+'use strict';
 
 /*
 -----------------------------------------------------------------------------------
@@ -10,8 +11,8 @@
 -----------------------------------------------------------------------------------
 */
 
-var fs = require('fs')
-var path = require('path')
+var fs = require('fs');
+var path = require('path');
 
 /*
 -----------------------------------------------------------------------------------
@@ -22,11 +23,11 @@ var path = require('path')
 */
 
 // Enable transpilation
-require('babel-core/register')
+require('babel-core/register');
 
 // Make config globally available
-var config = fs.readFileSync(path.join(__dirname, 'config.json'), 'utf-8')
-global.config = JSON.parse(config)
+var config = fs.readFileSync(path.join(__dirname, '..', 'config.json'), 'utf-8');
+global.config = JSON.parse(config);
 
 // Start application
-require('./lib/cli')
+require('./cli');
